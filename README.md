@@ -17,7 +17,7 @@
  
 ### Code:
 
-```c
+```c++
  #include <iostream>
  using namespace std;
  int main(){
@@ -48,7 +48,7 @@ Giả sử ca có 1 sớ nguyên dương là abcd
 
 ### Code:
 
-```c
+```c++
 #include <iostream>
 int main(){
     int n;
@@ -73,7 +73,7 @@ int main(){
 
 ### code:
 
-```c
+```c++
 #include <iostream>
 using namespace std;
 int main(){
@@ -101,7 +101,7 @@ int main(){
 
 ### Code
 
-```c
+```c++
 #include <iostream>
 using namespace std;
 int main(){
@@ -128,7 +128,7 @@ int main(){
 
 ### Code:
 
-```
+```c++
 #include <iostream>
 #include <math.h> 
 using namespace std;
@@ -156,7 +156,7 @@ int main(){
 
 ### Code:
 
-```c
+```c++
 #include <iostream>
 using namespace std;
 int main(){
@@ -182,7 +182,7 @@ int main(){
 
 ### Code:
 
-```c
+```c++
 #include <iostream>
 using namespace std;
 int main(){
@@ -207,7 +207,7 @@ int main(){
 
 ### Code:
 
-```c
+```c++
 #include <iostream>
 using namespace std;
 int main(){
@@ -240,7 +240,7 @@ int main(){
 
 ### Code: 
 
-```c
+```c++
 #include <iostream>
 #include <math.h>
 using namespace std;
@@ -268,7 +268,7 @@ int main(){
 
 ### Code: 
 
-```c
+```c++
 #include <iostream>
 using namespace std;
 int main(){
